@@ -636,7 +636,7 @@ iOS 比 Android 多了一道 App Store 门槛。
 
 <img width="768" height="503" alt="Apple (2)" src="https://github.com/user-attachments/assets/fc240c45-fff2-438f-adce-dc1229371b3a" /><br>
 
-## 📥 苹果手机怎么下载 VPN 客户端？
+## 📥 苹果手机下载 VPN 客户端
 
 中国区 App Store 搜不到 VPN 时，主要问题就是解决 App Store 地区。
 
